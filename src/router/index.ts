@@ -3,7 +3,7 @@ import { storeToRefs } from 'pinia';
 import { useAuthStore } from '@/shared/stores/authStore';
 
 // Layout
-import AppLayout from '@/layouts/AppLayout.vue';
+import AppLayout from '@/layouts/AppLayout/AppLayout.vue';
 
 // Views
 // Guest Views
